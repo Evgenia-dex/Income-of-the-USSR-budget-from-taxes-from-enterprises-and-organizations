@@ -12,13 +12,16 @@
 
 [Скачать получившийся датасет](https://docs.google.com/spreadsheets/d/1qa6XYgZWvU96Vr1NMC4ySOvw3NbWzoqrVBXcImm8Peg/edit?usp=sharing)
 
+Ссылки на первоначальные датасеты:
+[1933-1937](https://docs.google.com/spreadsheets/d/1JgkDGIyPH7FANgzkaKmmKfQReSNp2ycGCBmLsveLT24/edit?usp=sharing)
+
+[1946-1955](https://docs.google.com/spreadsheets/d/1Ak5oZ3I0eJTr9682KBdBl8VqrxC0vmjFb05CvEgrPCk/edit?usp=sharing)
+
 # **Выводы**
 1. Больше всего налогов в бюджет СССР приносили колхозы.
 2. Рост налогов не стабилен. 
 3. Между союзным бюджетом и бюджетом республик видна сильная корреляция, это может говорить о том, что суммы налогов увеличиваются достаточно равномерно.
 4. После Великой Отечественной Войны темпы роста налогов от предприятий значительно увеличились.
 
-Ссылки на первоначальные датасеты:
-[1933-1937](https://docs.google.com/spreadsheets/d/1JgkDGIyPH7FANgzkaKmmKfQReSNp2ycGCBmLsveLT24/edit?usp=sharing)
-[1946-1955](https://docs.google.com/spreadsheets/d/1Ak5oZ3I0eJTr9682KBdBl8VqrxC0vmjFb05CvEgrPCk/edit?usp=sharing)
+
 
